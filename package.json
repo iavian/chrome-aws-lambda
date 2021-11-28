@@ -3,7 +3,7 @@
   "private": false,
   "version": "10.1.0",
   "author": {
-    "name": "Alix Axel"
+    "name": "Alix Axell"
   },
   "license": "MIT",
   "description": "Chromium Binary for AWS Lambda and Google Cloud Functions",
